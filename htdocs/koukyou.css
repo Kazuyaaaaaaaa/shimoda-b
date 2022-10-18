@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between
+}
+
+body{
+    color:white
+}
+
+.anh1{
+    width: 350px;
+}
+
+.hoang{
+    background-color: rgb(70, 204, 234);
+}
+
+div.koukyou{
+    padding:0 0 0 1%;
+    font-size:30px;
+}

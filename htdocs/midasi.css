@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.hoang {
+    background-color: rgb(70, 204, 234)
+}
+div.mi{
+    padding: 0 0 0 3%;
+    font-size: 35px;
+}
+body {
+    color: rgb(16, 16, 16);
+  }
+
+  .anh1 {
+    width: 1000px;
+  }
+
+  .anh2 {
+    width: 400px;
+  }
